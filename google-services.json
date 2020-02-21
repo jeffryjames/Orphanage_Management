@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096616364110",
+    "firebase_url": "https://orphanage-management-a44c9.firebaseio.com",
+    "project_id": "orphanage-management-a44c9",
+    "storage_bucket": "orphanage-management-a44c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096616364110:android:ac54a9a14273bb9bea5b1f",
+        "android_client_info": {
+          "package_name": "com.example.orphanagemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096616364110-lnmedoecctn8mpiite93tbpfd1bnjs0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orphanagemanagement",
+            "certificate_hash": "8dfeb142154985489d737acf83859e506fa54141"
+          }
+        },
+        {
+          "client_id": "1096616364110-rhbjjn33tdq9kjskq4meof0ljalap712.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55RM8EW2lb7Xy6kzBWFw2CGuVGuIa7Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096616364110-rhbjjn33tdq9kjskq4meof0ljalap712.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
